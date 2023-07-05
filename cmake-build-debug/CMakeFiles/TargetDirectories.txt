@@ -1,0 +1,5 @@
+/home/jakub/pamsijakubmichalak/Struktury danych/PAMSIProjekt1StrukturyDanych/PAMSIProjekt1StrukturyDanych/cmake-build-debug/CMakeFiles/test_data_structures.dir
+/home/jakub/pamsijakubmichalak/Struktury danych/PAMSIProjekt1StrukturyDanych/PAMSIProjekt1StrukturyDanych/cmake-build-debug/CMakeFiles/data_structures.dir
+/home/jakub/pamsijakubmichalak/Struktury danych/PAMSIProjekt1StrukturyDanych/PAMSIProjekt1StrukturyDanych/cmake-build-debug/CMakeFiles/example_test.dir
+/home/jakub/pamsijakubmichalak/Struktury danych/PAMSIProjekt1StrukturyDanych/PAMSIProjekt1StrukturyDanych/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jakub/pamsijakubmichalak/Struktury danych/PAMSIProjekt1StrukturyDanych/PAMSIProjekt1StrukturyDanych/cmake-build-debug/CMakeFiles/rebuild_cache.dir

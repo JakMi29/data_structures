@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "data_structures",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "data_structures::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-data_structures-Debug-eae9d7959bc4fd69298c.json",
+					"name" : "data_structures",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_test-Debug-6e29fc1a3751aca1c4f0.json",
+					"name" : "example_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_data_structures::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_data_structures-Debug-0ff5e645d4f70aa2b1f2.json",
+					"name" : "test_data_structures",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jakub/pamsijakubmichalak/Struktury danych/PAMSIProjekt1StrukturyDanych/PAMSIProjekt1StrukturyDanych/cmake-build-debug",
+		"source" : "/home/jakub/pamsijakubmichalak/Struktury danych/PAMSIProjekt1StrukturyDanych/PAMSIProjekt1StrukturyDanych"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
